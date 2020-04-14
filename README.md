@@ -32,7 +32,7 @@ For videos of the execution please go to `cypress/videos/`
 ## Bugs
 A few bugs have been reported as test failures, however here are some more that would normally merit a discussion between the SDET / QA and the Developer / Product Owner / Designer
 * A field is called 'Year of birth', but shows the whole date
-* 'Year of birth' field doesn't have id, makes it hard to write automated tests
+* 'Year of birth' field doesn't have id, makes it hard to write stable automated tests
 * 'Save' button similarly doesn't have id
 * 'Position' field has hidden input for no aparent reason
 * There are only data validation messages (feedback) on url field, should be on all
