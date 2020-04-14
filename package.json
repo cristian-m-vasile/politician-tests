@@ -1,0 +1,23 @@
+{
+  "name": "politician-tests",
+  "version": "1.0.0",
+  "description": "Tests for politician form",
+  "main": "index.js",
+  "dependencies": {
+    "cypress": "^4.4.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cristian-m-vasile/politician-tests.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cristian-m-vasile/politician-tests/issues"
+  },
+  "homepage": "https://github.com/cristian-m-vasile/politician-tests#readme"
+}
