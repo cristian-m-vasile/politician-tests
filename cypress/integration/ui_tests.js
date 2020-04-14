@@ -1,3 +1,4 @@
+// Enabling IntelliSense
 /// <reference types="Cypress" />
 
 beforeEach(() => {

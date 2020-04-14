@@ -24,10 +24,11 @@ For videos of the execution please go to `cypress/videos/`
 * By default cypress runs headless, to run it in headed Chrome you can use `npx cypress run --browser chrome`
 * For more info on how to run cypress, including how to run it in other browsers, please visit https://docs.cypress.io/guides/guides/launching-browsers.html#Browsers
 
-## Why
-* Cypress is a great new tool for UI tests, it is quickly gaining groud on Selenium as the weapon of choice for most SDETs
+## Choices
+* I chose to use Cypress, which is a great new tool for UI tests, it is quickly gaining groud on Selenium as the weapon of choice for most SDETs
 * It has great debugging tools when you use `npx cypress open`
 * By default it will run tests in chrome, but you could also use microsoft edge or firefox with minimal changes to the code
+* I chose not to use the page object model, as per Cypress' recommendation: https://www.cypress.io/blog/2019/01/03/stop-using-page-objects-and-start-using-app-actions/
 
 ## Bugs
 A few bugs have been reported as test failures, however here are some more that would normally merit a discussion between the SDET / QA and the Developer / Product Owner / Designer
