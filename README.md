@@ -1,4 +1,4 @@
-# politician-tests
+# politician-tests-ui-cypress
 
 Set of UI tests for the politician form. I have used Cypress as the automation tool for this. Used with a macOS device, but installation steps should be the same for any unix system.
 
