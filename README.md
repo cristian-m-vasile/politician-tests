@@ -38,3 +38,7 @@ A few bugs have been reported as test failures, however here are some more that 
 * 'Position' field has hidden input for no aparent reason
 * There are only data validation messages (feedback) on url field, should be on all
 * The technical test's description metioned date of birth is in mm/dd/yyyy format, but in the form it is in dd/mm/yyyy format
+
+## Improvements
+* organise tests into different files
+* implement linting
