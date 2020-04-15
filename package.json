@@ -1,8 +1,7 @@
 {
-  "name": "politician-tests",
+  "name": "politician-tests-ui-cypress",
   "version": "1.0.0",
-  "description": "Tests for politician form",
-  "main": "index.js",
+  "description": "UI Tests for politician form",
   "dependencies": {
     "cypress": "^4.4.0"
   },
@@ -12,12 +11,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cristian-m-vasile/politician-tests.git"
+    "url": "git+https://github.com/cristian-m-vasile/politician-tests-ui-cypress.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cristian-m-vasile/politician-tests/issues"
+    "url": "https://github.com/cristian-m-vasile/politician-tests-ui-cypress/issues"
   },
-  "homepage": "https://github.com/cristian-m-vasile/politician-tests#readme"
+  "homepage": "https://github.com/cristian-m-vasile/politician-tests-ui-cypress#readme"
 }
